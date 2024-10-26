@@ -8,7 +8,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemo
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 import asyncio
 
-BOT_TOKEN = '7373643217:AAGvqKG0fAF-QOpsi3-MNrjA24NYoePJ9wM'
+BOT_TOKEN = ''
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher(storage=MemoryStorage())
 
